@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 C:\Users\48801854\Documents\GitHub\Protipo-1\Protipo 1
+=======
+C:\Users\Juan\Documents\GitHub\Protipo-1\Protipo 1
+>>>>>>> Stashed changes
